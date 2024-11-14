@@ -1,0 +1,12 @@
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/bin/Debug/net6.0/TaskBoard.Data.deps.json
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/bin/Debug/net6.0/TaskBoard.Data.dll
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/bin/Debug/net6.0/TaskBoard.Data.pdb
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/obj/Debug/net6.0/TaskBoard.Data.csproj.AssemblyReference.cache
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/obj/Debug/net6.0/TaskBoard.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/obj/Debug/net6.0/TaskBoard.Data.AssemblyInfoInputs.cache
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/obj/Debug/net6.0/TaskBoard.Data.AssemblyInfo.cs
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/obj/Debug/net6.0/TaskBoard.Data.csproj.CoreCompileInputs.cache
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/obj/Debug/net6.0/TaskBoard.Data.dll
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/obj/Debug/net6.0/refint/TaskBoard.Data.dll
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/obj/Debug/net6.0/TaskBoard.Data.pdb
+/home/chrisx/Documents/Projects/Education/School/Docker_School/07.CI-CD-with-GitHub-Actions-Exercises-Resources/01-03.TaskBoard-Web-App-With-Tests/TaskBoard.Data/obj/Debug/net6.0/ref/TaskBoard.Data.dll
